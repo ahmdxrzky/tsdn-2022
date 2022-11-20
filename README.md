@@ -8,6 +8,7 @@ Web App projek ini dibuat menggunakan library python bernama Streamlit, berupa d
 ## Cara Penggunaan ##
 Capaian Predictive Analytic dapat diakses dalam folder Visualisasi. <br>
 Capaian Web Apps dapat diakses dengan Command Prompt, sebagai berikut: <br>
+  - Pastikan Python yang digunakan adalah Python versi 3.10.
   - Buka folder "PUBLIK_YGGDRASIL_V1/Source/Web-Apps"
     ![image](https://user-images.githubusercontent.com/99194827/202892327-b51846e6-3305-4f44-956e-9c291686fdd7.png)
   - Akses folder tersebut menggunakan Command Prompt
